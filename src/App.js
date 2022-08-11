@@ -1,6 +1,7 @@
 const App = () => {
   return (
-    <div className="App">
+    <div className="app">
+      <a href="enroll.mobileconfig">Get UDID</a>
     </div>
   );
 }

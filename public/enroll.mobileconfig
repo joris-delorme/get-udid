@@ -5,7 +5,7 @@
         <key>PayloadContent</key>
         <dict>
             <key>URL</key>
-            <string>https://getudid.netlify.com/utils/done.php</string>
+            <string>https://getudid2.herokuapp.com//udid/done.php</string>
             <key>DeviceAttributes</key>
             <array>
             <string>DEVICE_NAME</string>

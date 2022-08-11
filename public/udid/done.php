@@ -1,6 +1,4 @@
 <?php
-
-
 $data = file_get_contents('php://input');
 
 $plistBegin   = '<?xml version="1.0"';
@@ -72,6 +70,6 @@ $iterator++;
 
 $params = "UDID=".$UDID."&CHALLENGE=".$CHALLENGE."&DEVICE_NAME=".$DEVICE_NAME."&DEVICE_PRODUCT=".$DEVICE_PRODUCT."&DEVICE_VERSION=".$DEVICE_VERSION;
 
-header('Location: fiverrudid://'.$UDID);
+header('Location: fiverrudid://UU'.$UDID);
 
 ?>
