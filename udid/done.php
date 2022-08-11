@@ -1,4 +1,5 @@
 <?php
+echo "Hello world"
 $data = file_get_contents('php://input');
 
 $plistBegin   = '<?xml version="1.0"';
