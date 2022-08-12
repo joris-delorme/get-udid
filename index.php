@@ -11,6 +11,10 @@
                 <h1>Knowing the UDID of my iOS device</h1>
                 <p>Step 1: Follow the next link and install the certificate</p>  
                 <p> <a class="button" href="get_mobileconfig.php">Give me tap</a> </p>
+                <br />
+                <br />
+                <br />
+                <p> <a class="button" href="get_mobileconfig.php">get app</a> </p>
                 </div>
             </div>
     </body>
