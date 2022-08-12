@@ -14,7 +14,7 @@
                 <br />
                 <br />
                 <br />
-                <p> <a class="button" href="get_mobileconfig.php">get app</a> </p>
+                <p> <a class="button" href="edit_plist.php">get app</a> </p>
                 </div>
             </div>
     </body>
