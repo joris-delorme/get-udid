@@ -6,16 +6,7 @@
         <meta name="viewport" content="width=device-width" />
     </head>
     <body>
-        <div>
-            <div>
-                <h1>Knowing the UDID of my iOS device</h1>
-                <p>Step 1: Follow the next link and install the certificate</p>  
-                <p> <a class="button" href="get_mobileconfig.php">Give me tap</a> </p>
-                <br />
-                <br />
-                <br />
-                <p> <a class="button" href="edit_plist.php">get app</a> </p>
-                </div>
-            </div>
+        <h1>HELLO WORLD</h1>
     </body>
 </html>
+
